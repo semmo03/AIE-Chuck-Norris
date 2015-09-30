@@ -1,0 +1,2 @@
+var SCREEN_WIDTH = 640;
+var SCREEN_HEIGHT = 480;
